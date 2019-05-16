@@ -9,8 +9,8 @@ Menetelmät
 
 Käyttäjätunnus Ja Salasana<br>
 
-KäyttäjäTunnus:admin<br>
-Salasana:admin
+KäyttäjäTunnus: admin<br>
+Salasana: admin
 
 ## Screenshot
 
